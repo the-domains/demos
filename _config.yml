@@ -2,6 +2,7 @@ name: demos
 favicon: null
 layout_spectrum: 0.15796
 typography_spectrum: 0.95105
+style: the-composer
 cta:
   domain: null
   bucket: null
